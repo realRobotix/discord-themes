@@ -55,8 +55,8 @@
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
   --primary-color: #F5A9B8;
   --secondary-color: #5BCEFA;
-  --hover-color: #FF801F;
-  --tooltip-color: #B85000;
+  --hover-color: #B06D7A;
+  --tooltip-color: #77404B;
   /* These colours are used for statues and other coloured things. Ignoring Green they default to Discord's HSL though converted to Hex. */
   /* Green's default here is the old green. The current green is #3ba55d */
   --green-color: #43b581;
