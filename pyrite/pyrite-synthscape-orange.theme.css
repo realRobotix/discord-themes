@@ -37,7 +37,7 @@
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
-  --home-icon: none;
+  --home-icon: rgba(255,255,255,0.05);
 
   /* Image attachment can be "fixed", "scroll" or "local" */
   /* scroll/local attaches the background to the modal completely while fixed keeps it in line with the background */
@@ -142,5 +142,9 @@
   /* The following are applied to buttons to indicate hover and being held down. */
   --hover-filter: rgba(255,255,255,0.2);
   --active-filter: rgba(255,255,255,0.4);
+}
+
+.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub {
+  color: var(--text-normal);
 }
 
