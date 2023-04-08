@@ -23,7 +23,7 @@
 @import url(https://leafyluigi.github.io/discord-themes/whitney.css);
 
 /* Optional: HorizontalServerList. Includes the base for the minitheme. */
-/* @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/horizontal-server-list.css); */
+@import url(https://leafyluigi.github.io/discord-themes/pyrite/build/horizontal-server-list.css);
 
 /* Optional: Border Radius / Radical Status. Does not include Gibbu's base for Radical Status. Incompatible with it. */
 /* @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/borders.css) */
@@ -53,8 +53,8 @@
   /* Secondary is an accent colour of sorts. It's not used as often as Primary. It should be a shade or two lighter or darker compared to Primary. */
   /* Hover is a secondary accent colour of sorts and is often used when hovering over something. Like Secondary, it should be a shade or two lighter or darker compared to Primary. */
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
-  --primary-color: #FF6F00;
-  --secondary-color: #E06100;
+  --primary-color: #F5A9B8;
+  --secondary-color: #5BCEFA;
   --hover-color: #FF801F;
   --tooltip-color: #B85000;
   /* These colours are used for statues and other coloured things. Ignoring Green they default to Discord's HSL though converted to Hex. */
